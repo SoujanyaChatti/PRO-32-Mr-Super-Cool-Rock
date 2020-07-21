@@ -12,7 +12,7 @@ const Constraint=Matter.Constraint;
 
  function preload(){
  
-   backgroundIMG=loadImage("sprites/daybg.jpg");
+   backgroundIMG=loadImage("sprites/nightbg.jpg");
    arrowim=loadImage("sprites/arrow.png");
    gettime();
  }
